@@ -4,11 +4,10 @@ import android.content.res.Resources;
 import android.text.Html;
 import android.text.Spanned;
 
-import com.example.oschina21.gloab.Oschina;
-import com.example.oschina21.ui.views.tweetview.MyLinkMovementMethod;
-import com.example.oschina21.ui.views.tweetview.MyURLSpan;
-import com.example.oschina21.ui.views.tweetview.TweetTextView;
-
+import com.example.opensourcechina.gloab.Oschina;
+import com.example.opensourcechina.view.tweetview.MyLinkMovementMethod;
+import com.example.opensourcechina.view.tweetview.MyURLSpan;
+import com.example.opensourcechina.view.tweetview.TweetTextView;
 
 /**
  * Created by sy_heima on 2016/10/8.

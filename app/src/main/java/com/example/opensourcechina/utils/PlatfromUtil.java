@@ -3,8 +3,9 @@ package com.example.opensourcechina.utils;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.oschina21.R;
-import com.example.oschina21.gloab.Oschina;
+import com.example.opensourcechina.R;
+import com.example.opensourcechina.gloab.Oschina;
+
 
 /**
  * Created by 火蚁 on 15/5/21.

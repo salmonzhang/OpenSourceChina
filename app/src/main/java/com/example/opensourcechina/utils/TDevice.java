@@ -31,8 +31,8 @@ import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 
-import com.example.oschina21.R;
-import com.example.oschina21.gloab.Oschina;
+import com.example.opensourcechina.R;
+import com.example.opensourcechina.gloab.Oschina;
 
 import java.io.File;
 import java.lang.reflect.Field;
