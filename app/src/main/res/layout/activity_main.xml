@@ -15,9 +15,22 @@
         android:layout_height="match_parent"/>
 
     <!--底部布局-->
-    <android.support.v4.app.FragmentTabHost
-        android:id="@+id/ftab_main_bottom_layout"
+    <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="50dp"/>
+        android:layout_height="50dp">
+
+        <android.support.v4.app.FragmentTabHost
+            android:id="@+id/ftab_main_bottom_layout"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+        <!--中间加号-->
+        <ImageView
+            android:id="@+id/iv_icon_selector"
+            android:layout_gravity="center"
+            android:layout_width="42dp"
+            android:src="@drawable/tab_icon_selector"
+            android:layout_height="42dp"/>
+    </FrameLayout>
 
 </LinearLayout>
