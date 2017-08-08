@@ -1,3 +1,38 @@
 <resources>
-    <string name="app_name">OpenSourceChina</string>
+    <string name="app_name">开源中国</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="information">资料</string>
+    <string name="my_information_unlogin_tips">未登录</string>
+
+    <string name="user_score">积分</string>
+    <string name="favorite">收藏</string>
+    <string name="following">关注</string>
+    <string name="follower">粉丝</string>
+    <string name="team">我的团队</string>
+    <string name="actionbar_title_event">我的活动</string>
+    <string name="actionbar_title_setting">设置</string>
+    <string name="message">我的消息</string>
+    <string name="blog">我的博客</string>
+
+    <string name="from_web">网页</string>
+    <string name="from_mobile">手机</string>
+    <string name="from_android">Android</string>
+    <string name="from_iphone">iPhone</string>
+    <string name="from_windows_phone">Windows Phone</string>
+    <string name="from_wechat">微信</string>
+
+    <string name="event_status_end">活动结束</string>
+    <string name="event_status_ing">正在报名</string>
+    <string name="event_status_sing_up">截止报名</string>
+    <string name="event_type_osc">源创会</string>
+    <string name="event_type_tec">技术交流</string>
+    <string name="event_type_other">其他</string>
+    <string name="event_type_outside">站外活动</string>
+
+
+    <string name="oscsite">官网</string>
+
 </resources>

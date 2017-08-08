@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#32d67c</color>
+    <color name="colorPrimaryDark">#32e665</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="list_item_background_pressed">#bcb7b7</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="ques_bt_bg">#f6f6f6</color>
+    <color name="ques_bt_text_color_light">#24cf5f</color>
+    <color name="count_text_color_light">#9d9d9d</color>
+    <color name="list_divider_color">#DADADA</color>
+
+    <color name="main_gray">#9A9A9A</color>
+    <color name="main_black">#030303</color>
+    <color name="main_purple">#576B95</color>
+    <color name="lightblue">#0083FF</color>
+
+    <color name="login_input_active">#31b968</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="main_link_text_color">#ffbedfff</color>
+
+    <color name="timeline_clickable_text_highlighted_background">#ffbedfff</color>
+
+    <color name="comment_yellow">#FFFFEE</color>
+    <color name="color_text_selected">#24CF5F</color>
+    <color name="color_text_normal">#878787</color>
+    <color name="blog_title_text_color_light">#111111</color>
+
+    <color name="user_info_bg_color">#20B955</color>
+
+    <color name="my_information_option_pressed">#18be40</color>
+
+    <color name="actionbar_background">#24cf5f</color>
+
+    <color name="tweet_indicator_text_color">#111111</color>
+    <color name="tweet_indicator_text_color_error">#e35050</color>
+
+    <color name="white_alpha_208">#d0ffffff</color>
+    <color name="main_touch">#20000000</color>
+
+    <color name="account_pressed_true">#14b94d</color>
+
+    <color name="account_input_bg_color">#33ffffff</color>
+
+    <!--二维码扫描颜色-->
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+
+    <color name="text_light">#3f000000</color>
+    <color name="main_green">#24cf5f</color>
+
+
 </resources>
